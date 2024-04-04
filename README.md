@@ -6,14 +6,14 @@ The layouts are based on a grid, which can nest sub-grids and provides fixed/fle
 The library is **fully documented** (javadoc everywhere) to get you started quickly.
 
 **Note:**
-*The library uses the [Universal Tween Engine](http://www.aurelienribon.com/blog/projects/universal-tween-engine/)
+*The library uses the [Universal Tween Engine](https://github.com/AurelienRibon/universal-tween-engine)
 under the hood, so you need to have this library in your classpath. It is compatible with the revision 6.3.3.*
 
 ## Examples
 
 The following animated gif features an example of what can be done with the library.
 
-![](http://www.aurelienribon.com/blog/wp-content/uploads/2012/09/sliding-layout-demo.gif)
+![](demo/sliding-layout-demo.gif)
 
 There is also a [Youtube video](https://www.youtube.com/watch?v=R6rkcLAjTmA&feature=player_embedded) featuring the same demo with images.
 The source code of these examples is available in the **demo folder** of this project.
@@ -21,8 +21,8 @@ The source code of these examples is available in the **demo folder** of this pr
 ## Help
 
 Please use the [issue tracker](https://github.com/AurelienRibon/sliding-layout/issues) of this repository to report a bug.
-Else, there is a [dedicated forum](http://www.aurelienribon.com/forum/viewforum.php?f=15) for you if you need some help 
-to understand how it works or how to setup your project :)
+~~Else, there is a [dedicated forum](http://www.aurelienribon.com/forum/viewforum.php?f=15) for you if you need some help
+to understand how it works or how to setup your project :)~~
 
 ## License
 
